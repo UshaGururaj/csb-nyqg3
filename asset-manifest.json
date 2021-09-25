@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ushagururaj.github.io/csb-nyqg3/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ushagururaj.github.io/csb-nyqg3/static/js/main.0cc24815.chunk.js",
+    "main.js.map": "https://ushagururaj.github.io/csb-nyqg3/static/js/main.0cc24815.chunk.js.map",
+    "runtime-main.js": "https://ushagururaj.github.io/csb-nyqg3/static/js/runtime-main.90d227b7.js",
+    "runtime-main.js.map": "https://ushagururaj.github.io/csb-nyqg3/static/js/runtime-main.90d227b7.js.map",
+    "static/js/2.c18b918b.chunk.js": "https://ushagururaj.github.io/csb-nyqg3/static/js/2.c18b918b.chunk.js",
+    "static/js/2.c18b918b.chunk.js.map": "https://ushagururaj.github.io/csb-nyqg3/static/js/2.c18b918b.chunk.js.map",
+    "index.html": "https://ushagururaj.github.io/csb-nyqg3/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ushagururaj.github.io/csb-nyqg3/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c18b918b.chunk.js.LICENSE.txt": "https://ushagururaj.github.io/csb-nyqg3/static/js/2.c18b918b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90d227b7.js",
+    "static/js/2.c18b918b.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0cc24815.chunk.js"
+  ]
+}
